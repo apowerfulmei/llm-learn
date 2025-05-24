@@ -117,10 +117,21 @@ mindmap
 + BERT（Bidirectional Encoder Representations from Transformers）
 + GPT（Generative Pre-trained Transformer）
 
-#### **4.3 模型优化与训练**
+
+#### **4.3 Fine-tuning**
++ 什么是微调
++ 微调准备
+    - 选择合适的基础模型
+    - 数据集的收集与预处理
+    - 微调训练框架
++ peft主流技术
+
+#### **4.4 模型优化与训练**
 + 预训练与微调（Fine-tuning）
 + Masked Language Model（MLM）
 + Causal Language Model（CLM）
+
+
 
 ---
 
@@ -135,6 +146,28 @@ mindmap
     - SQuAD、GLUE、CoNLL
 + 模型评估指标：
     - BLEU、ROUGE、Perplexity
+
+#### **5.3 RAG**
+[最全梳理：一文搞懂RAG技术的5种范式！](https://cloud.tencent.com/developer/article/2498870)
+
++ Retrieval-Augmented Generation，检索增强生成
++ RAG Pipeline
+    - 知识库构建
+    - Embeddings向量化
+    - 向量数据库
+    - prompt上下文增强
++ RAG应用
+
+#### **5.4 Agent**
+[Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
++ 什么是Agent
++ Agent主流框架
+    - LangChain
+    - LangGraph
++ Agent关键技术
+    - Planning Memory Tools Action
+    - Function call
+    - Multi Agents
 
 ---
 
@@ -190,3 +223,4 @@ mindmap
 ### 11. 数据集网站
 + UCI - https://archive.ics.uci.edu/
 + Kaggle - https://www.kaggle.com/datasets
++ ModelScope - https://modelscope.cn/datasets
