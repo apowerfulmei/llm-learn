@@ -16,6 +16,7 @@
 
 ### 5、多智能体模式（Multi-agent pattern）
 ![multi-agent](https://pic1.zhimg.com/v2-a9b3aec43b3939e205819ee037b96f00_b.jpg)
+
 多个agent各自扮演一种特定的角色，或者执行特定的任务，这种合作的方式是优于单一智能体的。
 
 [斯坦福小镇](https://github.com/joonspk-research/generative_agents)

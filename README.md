@@ -160,7 +160,7 @@ mindmap
 
 #### **5.4 Agent**
 [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
-+ 什么是Agent
++ [什么是Agent](./Agent/agent.md)
 + Agent主流框架
     - LangChain
     - LangGraph
